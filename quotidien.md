@@ -4,7 +4,7 @@
 
 * Les stories ont été ordonnées par le PO ; un binôme libre prend la story la plus prioritaire : on ne choisit pas !
 * Lorsqu'un binôme entame une story, il doit s'efforcer de la découper en tâches dans le but de favoriser le switch rapide de binômes
-* On switchera le plus souvent possible, mais lors du switch un des membres du binôme doit rester afin de favoriser l'appropriation collective du code
+* On switchera quotidiennement à la sortie du DS, mais lors du switch un des membres du binôme doit rester afin de favoriser l'appropriation collective du code
 
 ## Validation d'une story
 

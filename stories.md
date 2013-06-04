@@ -16,7 +16,7 @@ Dans le stade “Get it prioritized”, les stories sont des epics, voire de sim
 * Scénario : En tant que <rôle>, je veux <but> pour <justification métier>
 * Estimation
 * How-to-demo : important pour déterminer si une story est done
-* Critères de satisfaction (métier et ergo)
+* Critères de satisfaction (métier, ergo, et éventuellement performance)
 * Mockup ergo
 * Impact(s) sur features / code / architecture existante
 * Optionnel : règles métier ou référence à spécification
